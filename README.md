@@ -1,12 +1,11 @@
-## Hi there 👋
- Olá! Eu sou [SEU NOME COMPLETO] 👋
+ Olá! Eu sou Adonias Sampaio 👋
 
 🚀 Sobre Mim
-Eu sou um [Sua Posição/Área de Foco - ex: Desenvolvedor Front-end, Engenheiro de Dados, Estudante].
-* 🔭 Atualmente estou trabalhando em [Seu Projeto Atual ou Habilidade].
-* 🌱 Estou aprendendo [Tecnologia/Conceito que você está estudando].
-* 📫 Como me encontrar: [Seu Email] ou através do meu [LinkedIn](Link do LinkedIn).
-* 💡 Curiosidade: [Um fato interessante sobre você].
+Eu sou um Analista de Business Intelligence com experiência em Power BI, Power Apps e Python (Pandas).
+* 🔭 Atualmente estou trabalhando em projeto de Ciência de Dados.
+* 🌱 Estou aprendendo a utilizar algoritmos de Aprendizagem Supervisionada como o XGBoost.
+* 📫 Como me encontrar: adoniassampaio@gmail.com ou através do meu [LinkedIn](Link do LinkedIn).
+* 💡 Curiosidade: Ando de skate e gosto de dançar forró.
 
 ---
 
@@ -21,29 +20,3 @@ Aqui estão algumas tecnologias com as quais tenho experiência e/ou estou estud
 | **Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> |
 | **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> |
 
----
-
- 📊 Estatísticas (Opcional, mas Visualmente Forte)
-
-Muitos desenvolvedores usam widgets que mostram estatísticas do GitHub.
-
-```markdown
-### 📈 Minhas Estatísticas no GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/SEU-USUARIO)
-
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vue)](https://github.com/SEU-USUARIO)
-<!--
-**adonias-sampaio/adonias-sampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
