@@ -1,7 +1,7 @@
 ## Hi there 👋
-# Olá! Eu sou [SEU NOME COMPLETO] 👋
+ Olá! Eu sou [SEU NOME COMPLETO] 👋
 
-### 🚀 Sobre Mim
+🚀 Sobre Mim
 Eu sou um [Sua Posição/Área de Foco - ex: Desenvolvedor Front-end, Engenheiro de Dados, Estudante].
 * 🔭 Atualmente estou trabalhando em [Seu Projeto Atual ou Habilidade].
 * 🌱 Estou aprendendo [Tecnologia/Conceito que você está estudando].
@@ -10,7 +10,7 @@ Eu sou um [Sua Posição/Área de Foco - ex: Desenvolvedor Front-end, Engenheiro
 
 ---
 
-### 🛠️ Minhas Habilidades
+🛠️ Minhas Habilidades
 
 Aqui estão algumas tecnologias com as quais tenho experiência e/ou estou estudando:
 
@@ -23,7 +23,7 @@ Aqui estão algumas tecnologias com as quais tenho experiência e/ou estou estud
 
 ---
 
-### 📊 Estatísticas (Opcional, mas Visualmente Forte)
+ 📊 Estatísticas (Opcional, mas Visualmente Forte)
 
 Muitos desenvolvedores usam widgets que mostram estatísticas do GitHub.
 
