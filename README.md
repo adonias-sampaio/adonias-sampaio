@@ -4,7 +4,7 @@
 Eu sou um Analista de Business Intelligence com experiência em Power BI, Power Apps e Python (Pandas).
 * 🔭 Atualmente estou trabalhando em projeto de Ciência de Dados.
 * 🌱 Estou aprendendo a utilizar algoritmos de Aprendizagem Supervisionada como o XGBoost.
-* 📫 Como me encontrar: adoniassampaio@gmail.com ou através do meu [LinkedIn](Link do LinkedIn).
+* 📫 Como me encontrar: adoniassampaio@gmail.com ou através do meu [LinkedIn](https://www.linkedin.com/in/adonias-sampaio-447276238).
 * 💡 Curiosidade: Ando de skate e gosto de dançar forró.
 
 ---
