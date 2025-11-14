@@ -1,6 +1,7 @@
  Olá! Eu sou Adonias Sampaio 👋
 
-###🚀 Sobre Mim
+🚀 Sobre Mim
+
 Eu sou um Analista de Business Intelligence com experiência em Power BI, Power Apps e Python (Pandas).
 * 🔭 Atualmente estou trabalhando em projeto de Ciência de Dados.
 * 🌱 Estou aprendendo a utilizar algoritmos de Aprendizagem Supervisionada como o XGBoost.
