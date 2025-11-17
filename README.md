@@ -12,7 +12,7 @@ Eu sou um Analista de Business Intelligence com experiência em Power BI, Power 
 
 🛠️ Minhas Habilidades
 
-Aqui estão algumas tecnologias com as quais tenho experiência e/ou estou estudando:
+Aqui estão algumas tecnologias com as quais tenho experiência e/ou constantemente me aperfeiçoando:
 
 | Categoria | Tecnologias |
 | :---: | :---: |
